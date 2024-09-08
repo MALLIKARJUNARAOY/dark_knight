@@ -1,0 +1,13 @@
+public class project{
+
+    public static void main(Srings[] args){
+
+              int money=1000,breakfast=300;
+      System.out.println("1000-300");
+
+}
+
+
+
+
+}
